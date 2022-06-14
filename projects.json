@@ -1,6 +1,14 @@
 [
     {
         "name": "FindaBrew",
-        "live": "https://finadabrew.netlify.app/"
+        "live": "https://finadabrew.netlify.app/",
+        "git": "https://github.com/ACavalletto/FindaBrew",
+        "image": "https://github.com/ACavalletto/FindaBrew/raw/main/Screenshot.png"
+    },
+    {
+        "name": "DNDCharacterCreator",
+        "live": "https://glacial-lowlands-77176.herokuapp.com/",
+        "git": "https://github.com/ACavalletto/DND-Character-Creator",
+        "image": "https://i.imgur.com/2WkJeeI.jpg"
     }
 ]
